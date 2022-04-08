@@ -7,6 +7,7 @@
 
 import UIKit
 
+
  class MySession {
 
      static let instance = MySession()
@@ -16,3 +17,4 @@ import UIKit
      var token: String = ""
      var userId: Int = 0
  }
+

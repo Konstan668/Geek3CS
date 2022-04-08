@@ -7,12 +7,14 @@
 
 import UIKit
 
-class MySession {
-    
-    static let instance = MySession()
-    
-    private init() {}
-    
-    var token: String = ""
-    var userId: Int = 0
-}
+
+ class MySession {
+
+     static let instance = MySession()
+
+     private init() {}
+
+     var token: String = ""
+     var userId: Int = 0
+ }
+

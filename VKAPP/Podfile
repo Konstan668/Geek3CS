@@ -7,4 +7,6 @@ target 'VKAPP' do
 
   pod 'SnapKit'
 
+  pod 'Alamofire'
+
 end
